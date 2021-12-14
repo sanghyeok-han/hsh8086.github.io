@@ -7,7 +7,7 @@
 title: A blog
 subtitle:
 description:
-author: hsh8086
+author: sanghyeok-han
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -381,7 +381,7 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname: hsh8086
+  shortname: sanghyeok-han
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
