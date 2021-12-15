@@ -1,4 +1,4 @@
-# hsh8086가 PS하는 블로그
+# hsh8086의 PS 블로그
 
 ### 알고리즘 튜토리얼 프로젝트
 [github projects](https://github.com/justiceHui/justiceHui.github.io/projects)에서 작성할 예정 혹은 너무 예전에 작성하여 수정이 필요한 게시물들을 관리하고 있습니다.<br>
